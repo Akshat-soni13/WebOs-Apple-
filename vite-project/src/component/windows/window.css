@@ -1,0 +1,41 @@
+.window {
+  height: 30rem;
+  width: 35rem;
+  background-color: black;
+  border-radius: 1.2rem;
+}
+.window .nav {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  border-bottom: 1px solid whitesmoke;
+}
+.window .nav .dot {
+  height: 1.4rem;
+  width: 1.4rem;
+  border-radius: 50%;
+  background-color: red;
+}
+.window .nav .dots {
+  display: flex;
+  gap: 0.25rem;
+  padding-inline: 0.4rem;
+  padding-block: 0.7rem;
+}
+.window .nav .red {
+  background-color: #f43c27;
+}
+.window .nav .yellow {
+  background-color: #FDBB10;
+}
+.window .nav .green {
+  background-color: #00CD4E;
+}
+.window .nav .title p {
+  color: rgba(255, 255, 255, 0.89);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 400;
+}
+.window .main-content {
+  color: whitesmoke;
+}/*# sourceMappingURL=window.css.map */

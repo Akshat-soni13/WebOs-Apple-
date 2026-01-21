@@ -1,0 +1,22 @@
+
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+ body,html,#root {
+height: 100%;
+width: 100%;
+ }
+
+ main
+ {
+    height: 100%;
+    width: 100%;
+    background-image: url("../src/assets/backgroundimage.jpg");
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    overflow: hidden;
+ }
+
