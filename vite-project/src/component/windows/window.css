@@ -1,8 +1,8 @@
 .window {
-  height: 30rem;
-  width: 35rem;
   background-color: black;
   border-radius: 1.2rem;
+  border: 2px solid white;
+  height: 100%;
 }
 .window .nav {
   display: flex;
@@ -38,4 +38,11 @@
 }
 .window .main-content {
   color: whitesmoke;
+  overflow: auto;
+  height: 89%;
+  padding-block: 1rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  display: flex;
 }/*# sourceMappingURL=window.css.map */

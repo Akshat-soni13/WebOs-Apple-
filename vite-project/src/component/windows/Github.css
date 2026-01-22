@@ -1,0 +1,49 @@
+.Card {
+  background-color: rgb(22, 21, 21);
+  padding: 1rem;
+  border-radius: 1.4rem;
+  flex-grow: 1;
+  flex-basis: 20rem;
+  max-width: 25rem;
+}
+.Card img {
+  width: 100%;
+  height: 50%;
+  border-radius: 1.3rem;
+}
+.Card h1 {
+  white-space: nowrap;
+  width: 100%;
+  font-size: 1.4rem;
+  margin-top: 1rem;
+  font-weight: 700;
+}
+.Card .descri {
+  font-size: 0.75rem;
+  text-align: center;
+  margin-top: 0.5rem;
+  color: rgb(199, 192, 192);
+}
+.Card .tags {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.Card .tags .tag {
+  background-color: rgb(150, 148, 148);
+  padding: 0.5rem;
+  font-size: 1rem;
+  color: rgb(34, 33, 33);
+  border-radius: 1rem;
+}
+.Card .urls {
+  padding-bottom: 5rem;
+  margin-top: 1rem;
+  display: flex;
+  gap: 1.4rem;
+}
+.Card .urls a {
+  font-size: 1.2rem;
+  color: white;
+}/*# sourceMappingURL=Github.css.map */

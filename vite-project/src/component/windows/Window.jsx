@@ -4,7 +4,16 @@ import "./window.scss"
 // 11.15 scroll se baki 
 const Window = ({children}) => {
   return (
-    <Rnd>
+    <Rnd  
+      default={
+        {
+          width:"40vh",
+          height:"40vh",
+          x:300,
+          y:300
+        }
+      }
+    >
       <div className="window">
             <div className="nav">
                 <div className="dots">
