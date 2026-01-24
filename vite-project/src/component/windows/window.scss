@@ -63,5 +63,20 @@
         display: flex;
     }
     
+     *::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
 
+/* Scrollbar thumb */
+*::-webkit-scrollbar-thumb {
+    background-color: rgb(181, 182, 182);
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    
+}
+
+    
 }

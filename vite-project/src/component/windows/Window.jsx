@@ -7,8 +7,8 @@ const Window = ({children}) => {
     <Rnd  
       default={
         {
-          width:"40vh",
-          height:"40vh",
+          width:"60vh",
+          height:"60vh",
           x:300,
           y:300
         }

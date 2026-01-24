@@ -3,6 +3,7 @@
   border-radius: 1.2rem;
   border: 2px solid white;
   height: 100%;
+  /* Scrollbar thumb */
 }
 .window .nav {
   display: flex;
@@ -45,4 +46,15 @@
   gap: 1rem;
   justify-content: center;
   display: flex;
+}
+.window *::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+.window *::-webkit-scrollbar-thumb {
+  background-color: rgb(181, 182, 182);
+  border-top-left-radius: 30%;
+  border-top-right-radius: 30%;
+  border-bottom-left-radius: 30%;
+  border-bottom-right-radius: 30%;
 }/*# sourceMappingURL=window.css.map */

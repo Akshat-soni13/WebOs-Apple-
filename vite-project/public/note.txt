@@ -1,0 +1,59 @@
+---------------------------------------------------------------
+                  👨‍💻  DEVELOPER PROFILE
+---------------------------------------------------------------
+
+Name        : Akshat Soni
+Role        : Software / Web Developer
+Tagline     : Learner | Builder | Problem Solver
+
+---------------------------------------------------------------
+ABOUT ME
+---------------------------------------------------------------
+Passionate developer focused on building clean, efficient,
+and scalable applications. Strong interest in core computer
+science concepts and real-world project development.
+
+---------------------------------------------------------------
+SKILLS & TECHNOLOGIES
+---------------------------------------------------------------
+Programming      : C, C++, Python, JavaScript
+Web Development  : HTML, CSS, JavaScript
+Core Concepts    : DSA, OOPs, DBMS, OS, CN
+Machine Learning : Basics (Classification, Regression)
+Tools            : Git, GitHub, VS Code
+
+---------------------------------------------------------------
+CURRENT LEARNING
+---------------------------------------------------------------
+• Full-Stack Web Development
+• Data Structures & Algorithms
+• Machine Learning Fundamentals
+
+---------------------------------------------------------------
+PROJECTS
+---------------------------------------------------------------
+Blog Maker Website
+  - Theme selection
+  - Rich text editor
+  - Blog creation & management
+
+E-Commerce Website (Beginner Level)
+
+---------------------------------------------------------------
+GOALS
+---------------------------------------------------------------
+• Become a strong full-stack developer
+• Build real-world scalable projects
+• Crack technical interviews
+
+---------------------------------------------------------------
+CONTACT
+---------------------------------------------------------------
+GitHub : github.com/akshatsoni
+Email  : akshatsoni.dev@gmail.com
+
+---------------------------------------------------------------
+MOTTO
+---------------------------------------------------------------
+"Learn daily. Build consistently. Improve endlessly."
+---------------------------------------------------------------
