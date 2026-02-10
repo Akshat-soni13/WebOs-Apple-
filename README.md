@@ -55,4 +55,4 @@ Build something fun, interactive, and different
 🚀 How to Run Locally
 git clone YOUR_GITHUB_REPO_LINK
 cd project-folder
-open index.html
+npm run dev 
