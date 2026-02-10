@@ -19,6 +19,7 @@
             width: 1.4rem;
             border-radius: 50%;
             background-color: red;
+            cursor: pointer;
         }
         .dots 
         {
@@ -56,11 +57,9 @@
         color: whitesmoke;
         overflow: auto;
         height: 89%;
-        padding-block: 1rem;
-        flex-wrap: wrap;
         gap: 1rem;
-        justify-content: center;
-        display: flex;
+        
+
     }
     
      *::-webkit-scrollbar {

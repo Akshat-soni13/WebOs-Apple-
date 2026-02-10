@@ -1,0 +1,9 @@
+.Cli_Window {
+  height: 100%;
+  width: 100%;
+}
+.Cli_Window .terminal {
+  height: 100%;
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+}/*# sourceMappingURL=Cli.css.map */

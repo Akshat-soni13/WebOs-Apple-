@@ -7,7 +7,7 @@ import { atelierDuneDark } from 'react-syntax-highlighter/dist/esm/styles/hljs';
 import language from 'react-syntax-highlighter/dist/esm/languages/hljs/1c';
 import style from 'react-syntax-highlighter/dist/esm/styles/hljs/a11y-dark';
 
-const Note = () => {
+const Note = ({windowName, setWindowState}) => {
 
     const [markDown, setmarkDown] = useState(null)
 
@@ -18,7 +18,7 @@ const Note = () => {
     },[])
 
     return (
-        <Window>
+        <Window windowName={windowName} setWindowState={setWindowState}>
     <div className='note-window'>
                     {
 

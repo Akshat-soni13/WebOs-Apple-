@@ -4,7 +4,7 @@
   border-radius: 1.4rem;
   flex-grow: 1;
   flex-basis: 20rem;
-  max-width: 23rem;
+  max-width: 30rem;
 }
 .Card img {
   width: 100%;
@@ -46,4 +46,12 @@
 .Card .urls a {
   font-size: 1.2rem;
   color: white;
+}
+
+.Card_Container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
 }/*# sourceMappingURL=Github.css.map */

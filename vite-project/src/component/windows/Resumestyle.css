@@ -1,4 +1,10 @@
+.resume-window {
+  height: 100%;
+}
 .resume-window iframe {
   height: 100%;
-  width: 500%;
+  width: 100%;
+  flex: none;
+  background-color: green;
+  margin: auto;
 }/*# sourceMappingURL=Resumestyle.css.map */
