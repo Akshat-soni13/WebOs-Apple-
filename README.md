@@ -35,11 +35,9 @@ Additional sections to enhance realism
 🛠️ Tech Stack
 
 HTML
-
 CSS
-
 JavaScript
-
+React 
 Browser APIs (for time & interactions)
 
 🎯 Purpose of the Project
